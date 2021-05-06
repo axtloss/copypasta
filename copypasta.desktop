@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=Id just like to interject...
+Comment=Spam your friends with the linux copypasta
+Icon=Terminal
+Exec=/home/ali/bin/copypasta.sh
+StartupNotify=true
