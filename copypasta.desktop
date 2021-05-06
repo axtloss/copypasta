@@ -5,5 +5,5 @@ Encoding=UTF-8
 Name=Id just like to interject...
 Comment=Spam your friends with the linux copypasta
 Icon=Terminal
-Exec=/home/ali/bin/copypasta.sh
+Exec=$HOME/.local/bin/copypasta.sh
 StartupNotify=true
