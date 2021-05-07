@@ -17,5 +17,5 @@ elif [[ $(uname) == "FreeBSD" ]]
 then
     $rootCommand pkg install xdotool
 fi
-$rootCommand cp copypasta.sh /usr/local/bin/
+$rootCommand cp copypasta.sh /usr/local/bin/copypasta
 echo "Installation done! Go spam your friends with the linux copypasta!"
