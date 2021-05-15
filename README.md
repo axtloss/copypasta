@@ -8,4 +8,4 @@ yes, this thing has deps:
  - xdootool
 (thats it)
 
-
+This "tool" will only work on xorg and xwayland! I have not figured out how to make it work in wayland yet
